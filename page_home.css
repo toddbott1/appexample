@@ -1,0 +1,174 @@
+/* Hide create dialog by default */
+#createitem {
+    display: none;
+}
+
+
+/* Hide edit dialog by default */
+#edititems {
+    display: none;
+}
+
+/* Hide share dialog by default */
+#shareitems {
+    display: none;
+}
+
+/* Hide export dialog by default */
+#exportitems {
+    display: none;
+}
+
+/* Hide delete dialog by default */
+#deleteitems {
+    display: none;
+}
+
+/* Hide the hide filters button by default */
+#hidefilters {
+    display: none;
+}
+
+/* Hide type filter by default */
+#PICK_TYPE_CONTAINER{
+    display: none;
+}
+
+/* Hide owner filter by default */
+#PICK_OWNER_CONTAINER {
+    display: none;
+}
+
+/* Hide category filter by default */
+#PICK_CATEGORY_CONTAINER {
+    display: none;
+}
+
+/* Hide status filter by default */
+#PICK_STATUS_CONTAINER {
+    display: none;
+}
+
+/* Give report headers row emphasis (bold) */
+.t-Report-report th
+{
+    font-weight: bold;
+    color: black;
+}
+
+/* Give report title column emphasis (bold) */
+/*
+DONE THIS IN COLUMN'S CSS INSTEAD
+.t-Report-report td[headers="DERIVED$02"]
+{
+    font-weight: bold;
+    cursor: pointer;
+}*/
+
+/* Hide create dialog by default */
+
+#createitem {
+
+    display: none;
+
+}
+
+/* Hide edit dialog by default */
+
+#edititems {
+
+    display: none;
+
+}
+
+/* Hide share dialog by default */
+
+#shareitems {
+
+    display: none;
+
+}
+
+/* Hide export dialog by default */
+
+#exportitems {
+
+    display: none;
+
+}
+
+/* Hide delete dialog by default */
+
+#deleteitems {
+
+    display: none;
+
+}
+
+/* Hide the hide filters button by default */
+
+#hidefilters {
+
+    display: none;
+
+}
+
+/* Hide type filter by default */
+
+#PICK_TYPE_CONTAINER{
+
+    display: none;
+
+}
+
+/* Hide owner filter by default */
+
+#PICK_OWNER_CONTAINER {
+
+    display: none;
+
+}
+
+/* Hide category filter by default */
+
+#PICK_CATEGORY_CONTAINER {
+
+    display: none;
+
+}
+
+/* Hide status filter by default */
+
+#PICK_STATUS_CONTAINER {
+
+    display: none;
+
+}
+
+/* Give report headers row emphasis (bold) */
+
+.t-Report-report th
+
+{
+
+    font-weight: bold;
+
+    color: black;
+
+}
+
+/* Give report title column emphasis (bold) */
+
+/*
+
+DONE THIS IN COLUMN'S CSS INSTEAD
+
+.t-Report-report td[headers="DERIVED$02"]
+
+{
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}*/
